@@ -2,6 +2,6 @@
 
 Description: This the landing page of the online PR firm Horiseon. It describes the services provided by the company and some of the benefits of their services. 
 
-Screenshot: github.com/mikebombay/challenge1/screenshot.png
+Screenshot: https://github.com/MikeBombay/challenge1/blob/main/screenshot.png
 
-Deployed URL: mikebombay.github.io/challenge1
+Deployed URL: https://mikebombay.github.io/challenge1
